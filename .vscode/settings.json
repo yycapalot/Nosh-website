@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9230fe89-8d78-4ccc-8f57-34cc157e5472/resourceGroups/UCCD2223-sthRg/providers/Microsoft.Web/sites/Nosh-Malaysia",
+    "appService.deploySubpath": ".",
+    "liveServer.settings.port": 5501
+}
